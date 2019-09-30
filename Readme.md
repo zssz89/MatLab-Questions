@@ -1,4 +1,4 @@
-###Basic Questions for MatLab:
+### MatLab Basics
 
 1) Explain what is MatLab? Where MatLab can be applicable?
 2) What does MatLab consist of?
